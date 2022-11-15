@@ -1,7 +1,10 @@
 <script setup>
-import { RouterLink, RouterView } from 'vue-router'
+
+
+
+import CardForm from "./views/CardForm.vue";
 </script>
 
 <template>
-  <RouterView />
+  <CardForm/>
 </template>
